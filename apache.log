@@ -1,0 +1,576 @@
+[15-Oct-2019 09:52:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[15-Oct-2019 09:52:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[15-Oct-2019 09:52:30 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[15-Oct-2019 09:52:30 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:34:27 UTC] PHP Notice:  Undefined index: timeout in /var/www/mbanking/session.php on line 17
+[16-Oct-2019 03:34:27 UTC] PHP Notice:  Undefined index: user in /var/www/mbanking/public/menubar.php on line 5
+[16-Oct-2019 03:34:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:34:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:34:27 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:34:27 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:34:27 UTC] PHP Notice:  Undefined index: user in /var/www/mbanking/public/dashboard-menu.php on line 55
+[16-Oct-2019 03:34:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:34:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:34:41 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:34:41 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:34:47 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:34:47 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:34:50 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:34:50 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:35:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:35:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:35:59 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:35:59 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:37:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:37:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:37:06 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:37:06 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 03:45:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 03:45:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 03:45:24 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 03:45:24 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 05:37:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 05:37:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 05:37:03 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 05:37:03 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 05:37:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 05:37:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 05:37:10 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 05:37:10 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 05:37:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 05:37:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 05:37:12 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 05:37:12 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:29:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:29:54 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:29:54 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:29:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:29:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:29:56 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:29:56 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:31:46 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:31:46 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:31:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:31:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:31:48 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:31:48 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:32:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:32:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:32:07 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:32:07 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:32:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:32:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:32:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:32:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:33:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:33:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:33:29 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:33:29 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:11 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:11 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:19 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:19 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:21 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:21 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:26 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:26 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:30 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:30 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:47 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:47 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 06:34:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 06:34:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 06:34:48 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 06:34:48 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:23 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:23 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:35 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:35 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:41 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:41 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:20:41 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[16-Oct-2019 07:20:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:47 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:47 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:20:47 UTC] PHP Notice:  Undefined index: image in /var/www/mbanking/public/data-aktivasi-detail.php on line 71
+[16-Oct-2019 07:20:47 UTC] PHP Fatal error:  Call to undefined function curl_init() in /var/www/mbanking/public/data-aktivasi-detail.php on line 87
+[16-Oct-2019 07:20:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:56 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:56 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:20:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:20:59 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:20:59 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:20:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:20:59 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[16-Oct-2019 07:21:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:21:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:21:03 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:21:03 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:21:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:21:03 UTC] PHP Notice:  Undefined index: image in /var/www/mbanking/public/data-aktivasi-detail.php on line 71
+[16-Oct-2019 07:21:03 UTC] PHP Fatal error:  Call to undefined function curl_init() in /var/www/mbanking/public/data-aktivasi-detail.php on line 87
+[16-Oct-2019 07:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:21:09 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:21:09 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:21:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:21:09 UTC] PHP Notice:  Undefined index: image in /var/www/mbanking/public/data-aktivasi-detail.php on line 71
+[16-Oct-2019 07:21:09 UTC] PHP Fatal error:  Call to undefined function curl_init() in /var/www/mbanking/public/data-aktivasi-detail.php on line 87
+[16-Oct-2019 07:21:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:21:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:21:13 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:21:13 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:53:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:53:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:53:20 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:53:20 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:53:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[16-Oct-2019 07:53:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[16-Oct-2019 07:53:24 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[16-Oct-2019 07:53:24 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[16-Oct-2019 07:53:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[16-Oct-2019 07:53:24 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[17-Oct-2019 00:56:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:04 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:04 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:08 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:08 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:17 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:17 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:20 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:20 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[17-Oct-2019 00:56:20 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[17-Oct-2019 00:56:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:23 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:23 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[17-Oct-2019 00:56:23 UTC] PHP Notice:  Undefined index: image in /var/www/mbanking/public/data-aktivasi-detail.php on line 71
+[17-Oct-2019 00:56:23 UTC] PHP Fatal error:  Call to undefined function curl_init() in /var/www/mbanking/public/data-aktivasi-detail.php on line 87
+[17-Oct-2019 00:56:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:30 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:30 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:56:35 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:56:35 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:56:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[17-Oct-2019 00:56:35 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[17-Oct-2019 00:59:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[17-Oct-2019 00:59:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[17-Oct-2019 00:59:05 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[17-Oct-2019 00:59:05 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[17-Oct-2019 00:59:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[17-Oct-2019 00:59:05 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 310
+[24-Oct-2019 02:34:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:34:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:34:11 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:34:11 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:34:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:34:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:34:34 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:34:34 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:34:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:34:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:34:45 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:34:45 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:40:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:40:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:40:51 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:40:51 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:40:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:40:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:40:55 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:40:55 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:42:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:42:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:42:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:42:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 02:42:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 02:42:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 02:42:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 02:42:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 03:42:02 UTC] PHP Notice:  Undefined index: timeout in /var/www/mbanking/session.php on line 17
+[24-Oct-2019 03:42:02 UTC] PHP Notice:  Undefined index: user in /var/www/mbanking/public/menubar.php on line 5
+[24-Oct-2019 03:42:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 03:42:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 03:42:02 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 03:42:02 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 04:10:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 04:10:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 04:10:59 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 04:10:59 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[24-Oct-2019 04:11:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[24-Oct-2019 04:11:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[24-Oct-2019 04:11:05 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[24-Oct-2019 04:11:05 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:12:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:12:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:12:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:12:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:12:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:12:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:19 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:12:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:12:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:13:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: Imei in /var/www/mbanking/public/data-aktivasi-detail.php on line 37
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: Imei in /var/www/mbanking/public/data-aktivasi-detail.php on line 60
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: Fullname in /var/www/mbanking/public/data-aktivasi-detail.php on line 61
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: CIF in /var/www/mbanking/public/data-aktivasi-detail.php on line 62
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: dateTime in /var/www/mbanking/public/data-aktivasi-detail.php on line 294
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 297
+[04-Jan-2020 05:13:41 UTC] PHP Notice:  Undefined index: Fullname in /var/www/mbanking/public/data-aktivasi-detail.php on line 325
+[04-Jan-2020 05:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:49 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:13:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:13:52 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:13:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:13:59 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:13:59 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:14:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:14:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:14:05 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:14:05 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:14:05 UTC] PHP Notice:  Undefined index: apps_status in /var/www/mbanking/public/edit-aktivasi-form.php on line 18
+[04-Jan-2020 05:14:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:14:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:14:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:14:12 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:17:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:17:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:17:53 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:17:53 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:18:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:18:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:18:54 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:18:54 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:18:54 UTC] PHP Notice:  Undefined index: apps_status in /var/www/mbanking/public/edit-aktivasi-form.php on line 18
+[04-Jan-2020 05:18:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:18:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:56 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:18:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:18:59 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /var/www/mbanking/session.php on line 5
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: Imei in /var/www/mbanking/public/data-aktivasi-detail.php on line 37
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: Imei in /var/www/mbanking/public/data-aktivasi-detail.php on line 60
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: Fullname in /var/www/mbanking/public/data-aktivasi-detail.php on line 61
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: CIF in /var/www/mbanking/public/data-aktivasi-detail.php on line 62
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: dateTime in /var/www/mbanking/public/data-aktivasi-detail.php on line 294
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: comment in /var/www/mbanking/public/data-aktivasi-detail.php on line 297
+[04-Jan-2020 05:19:03 UTC] PHP Notice:  Undefined index: Fullname in /var/www/mbanking/public/data-aktivasi-detail.php on line 325
+[04-Jan-2020 05:19:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:07 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:18 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:25 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:25 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:31 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:31 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:33 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:37 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:42 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:42 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:53 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:53 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:19:57 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:20:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:20:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[04-Jan-2020 05:20:00 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[04-Jan-2020 05:24:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[04-Jan-2020 05:24:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[04-Jan-2020 05:24:21 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[04-Jan-2020 05:24:21 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: timeout in /var/www/mbanking/session.php on line 17
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: user in /var/www/mbanking/public/menubar.php on line 5
+[11-Jan-2020 02:10:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[11-Jan-2020 02:10:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[11-Jan-2020 02:10:14 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[11-Jan-2020 03:31:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[11-Jan-2020 03:31:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[11-Jan-2020 03:31:20 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[11-Jan-2020 03:31:20 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[11-Jan-2020 06:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[11-Jan-2020 06:38:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[11-Jan-2020 06:38:28 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[11-Jan-2020 06:38:28 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: timeout in /var/www/mbanking/session.php on line 17
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: user in /var/www/mbanking/public/menubar.php on line 5
+[14-Jan-2020 01:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 27
+[14-Jan-2020 01:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/mbanking/public/menubar.php on line 115
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: username in /var/www/mbanking/public/menubar.php on line 170
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: id in /var/www/mbanking/public/menubar.php on line 174
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: PPOB in /var/www/mbanking/public/table-aktivasi.php on line 216
+[14-Jan-2020 01:06:29 UTC] PHP Notice:  Undefined index: Status in /var/www/mbanking/public/table-aktivasi.php on line 225
